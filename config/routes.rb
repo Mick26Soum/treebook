@@ -1,5 +1,11 @@
 Treebook::Application.routes.draw do
+  devise_for :users
+
   resources :statuses
+
+  get "home", to: "statuses#index", as: "home"
+
+  root to: 'statuses#index'
 
 
   # The priority is based upon order of creation:
