@@ -1,4 +1,6 @@
 Treebook::Application.routes.draw do
+  get "profiles/show"
+
   devise_for :users
 
   devise_scope :user do
@@ -14,6 +16,8 @@ Treebook::Application.routes.draw do
   get "home", to: "statuses#index", as: :home
 
   root to: 'statuses#index'
+
+  get "/:id", to: "profiles#show", as: :profile
 
 
   # The priority is based upon order of creation:
