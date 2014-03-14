@@ -3,3 +3,10 @@ jason:
   last_name: "Seifer"
   email: "Mick26Soum@gmail.com"
   profile_name: "ToorItDude"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@treehouse.com"
+  profile_name: "jimhoskins"
+
