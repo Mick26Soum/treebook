@@ -94,7 +94,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+            <state line="17" column="7" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,8 +103,10 @@
       <file leaf-file-name="application.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/application.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="50" selection-start="2854" selection-end="2854" vertical-scroll-proportion="0.8493544">
-              <folding />
+            <state line="61" column="50" selection-start="2854" selection-end="2854" vertical-scroll-proportion="0.80631274">
+              <folding>
+                <marker date="1395175890000" expanded="true" signature="1959:2568" placeholder="#..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,7 +115,9 @@
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="31" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1395174920000" expanded="true" signature="495:592" placeholder="production:" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,8 +146,8 @@
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/models/status.rb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/application.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -286,7 +290,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Ruby" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../toorit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
@@ -730,21 +734,25 @@
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="31" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1395174920000" expanded="true" signature="495:592" placeholder="production:" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+        <state line="17" column="7" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="50" selection-start="2854" selection-end="2854" vertical-scroll-proportion="0.8493544">
-          <folding />
+        <state line="61" column="50" selection-start="2854" selection-end="2854" vertical-scroll-proportion="0.80631274">
+          <folding>
+            <marker date="1395175890000" expanded="true" signature="1959:2568" placeholder="#..." />
+          </folding>
         </state>
       </provider>
     </entry>
